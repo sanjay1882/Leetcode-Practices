@@ -7,11 +7,11 @@ class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         String1=""
         while l1:
-            String1+=str(l1.val)
+            String1=str(l1.val)+String1
             l1=l1.next
         String2=""
         while l2:
-            String2+=str(l2.val)
+            String2=str(l2.val)+String2
             l2=l2.next
         if not String1:
             String1="0"
