@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sanjay1882/Leetcode-Practices/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sanjay1882/Leetcode-Practices/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/sanjay1882/Leetcode-Practices/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/sanjay1882/Leetcode-Practices/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -32,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sanjay1882/Leetcode-Practices/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/sanjay1882/Leetcode-Practices/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sanjay1882/Leetcode-Practices/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/sanjay1882/Leetcode-Practices/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
